@@ -33,9 +33,15 @@ html{
    text-align: center;
    padding-top: 50px;
    padding-bottom: 50px;
+max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 .body{
     background-color: rgb(255, 248, 239);
+    margin: 0;
+  padding: 0;
 }
 .judul{
     font-size: 35px;
@@ -150,4 +156,22 @@ margin-left: 50px;
 }
 .link2{
     color: rgb(255, 0, 234);
+}
+
+/* Responsive untuk layar HP atau tablet */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    font-size: 16px;
+    padding: 10px;
+  }
 }
