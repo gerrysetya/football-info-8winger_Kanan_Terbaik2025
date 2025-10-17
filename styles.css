@@ -1,0 +1,153 @@
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 20px;
+}
+.social {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px; /* jarak antara icon dan teks */
+}
+
+.ins-img{
+    width: 25px;
+    height: 25px;
+}
+
+.link{
+    color: rgb(0, 217, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.tengah {
+   text-align: center;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.body{
+    background-color: rgb(255, 248, 239);
+}
+.judul{
+    font-size: 35px;
+    margin-top: px;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text {
+ text-indent: 20px;
+ max-width: 1300px;
+  font-size: 18px;
+  line-height: 1.4;   /* jarak antar baris biar enak dibaca */
+  color: black;       /* warna teks */
+  text-align: justify; /* teks rata kiri-kanan */
+  margin: 20px 0;     /* jarak atas-bawah antar paragraf */
+  padding-left: 10px;
+}
+
+.text2{
+   text-indent: 20px;
+ max-width: 1300px;
+  font-size: 18px;
+  line-height: 1.4;   /* jarak antar baris biar enak dibaca */
+  color: black;       /* warna teks */
+  text-align: justify; /* teks rata kiri-kanan */
+  margin: 20px 0;     /* jarak atas-bawah antar paragraf */
+  padding-left: 10px;
+}  
+
+
+.link-ig{
+    color: rgb(0, 42, 255);
+    text-decoration: none;
+    font-size: 18px; 
+    margin-left: 10px;
+}
+
+/* salah */
+
+h3{
+    font-size: 25px;
+    padding-left: 20px;
+}
+.img-salah {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.p-salah{
+    text-indent: 20px;
+ max-width: 1300px;
+  font-size: 18px;
+  line-height: 1.4;   /* jarak antar baris biar enak dibaca */
+  color: black;       /* warna teks */
+  text-align: justify; /* teks rata kiri-kanan */
+  margin: 18px 0;     /* jarak atas-bawah antar paragraf */
+  padding-left: 10px;
+}
+
+/*dembele */
+h3{
+    font-size: 25px;
+    padding-left: 20px;
+}
+.img-dembele {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.website{
+    color: rgb(0, 42, 255);
+    text-decoration: none;
+    font-size: 18px; 
+    margin-left: 10px;
+}
+.p-dem{
+    text-indent: 20px;
+ max-width: 1300px;
+  font-size: 18px;
+  line-height: 1.4;   /* jarak antar baris biar enak dibaca */
+  color: black;       /* warna teks */
+  text-align: justify; /* teks rata kiri-kanan */
+  margin: 18px 0;     /* jarak atas-bawah antar paragraf */
+  padding-left: 10px;
+}
+
+/*yamal */
+.p-yamal{
+    text-indent: 20px;
+ max-width: 1300px;
+  font-size: 18px;
+  line-height: 1.4;   /* jarak antar baris biar enak dibaca */
+  color: black;       /* warna teks */
+  text-align: justify; /* teks rata kiri-kanan */
+  margin: 18px 0;     /* jarak atas-bawah antar paragraf */
+  padding-left: 10px;
+}
+.game{
+    color: rgb(0, 42, 255);
+    text-decoration: none;
+    font-size: 18px; 
+    margin-left: px;
+}
+.ins-jpg{
+margin-left: 50px; 
+}
+
+.akhir{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    padding-bottom: 70px;
+}
+.link2{
+    color: rgb(255, 0, 234);
+}
